@@ -4,7 +4,22 @@ Hello and welcome to my GitHub! 🎉
 
 ## About Me 🙋‍♂️
 
-I'm Rick, a dedicated and enthusiastic full-stack developer currently pursuing my education at the  University of Miami. Originally hailing from Maryland, I have now found my home in sunny Fort Lauderdale, FL. My passion for phonology and wanderlust drives me to explore the world alongside my wonderful girlfriend.
+I'm Rick, a dedicated and enthusiastic full-stack developer currently pursuing my education at the University of Miami. Originally hailing from Maryland, I found my home in sunny Fort Lauderdale, FL. My passion for phonology and wanderlust drives me to explore the world alongside my wonderful girlfriend.
+
+## Current Project 🔧
+
+🍴 **SwipeBites - Your Personalized Restaurant Discovery Website!** 🍴
+
+SwipeBites is an innovative website that combines the excitement of swiping with the joy of discovering delectable dining options right in your neighborhood. It's your ultimate guide to local restaurant exploration.
+
+- Discover nearby restaurants with a swipe and refine your preferences.
+- Tailor your dining experience with cuisine types, dietary requirements, and budget.
+- Unearth hidden culinary gems and savor new flavors.
+- Make informed decisions with real reviews and trusted recommendations.
+- Plan and share your culinary adventures with friends.
+- Seamlessly integrate with Yelp for hassle-free dining.
+
+**Visit [Repo](https://github.com/NormallyRayne/SwipeBites) or the [Website](SwipeBites.app) and start swiping for delicious experiences!** 🌟👉👈
 
 ## Get in Touch 📲
 
