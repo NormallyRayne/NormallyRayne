@@ -1,16 +1,23 @@
-### Hi there 👋
+# Rick Collett - Full Stack Developer 👨‍💻
 
-<!--
-**NormallyRayne/NormallyRayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello and welcome to my GitHub! 🎉
 
-Here are some ideas to get you started:
+## About Me 🙋‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Rick, a dedicated and enthusiastic full-stack developer currently pursuing my education at the  University of Miami. Originally hailing from Maryland, I have now found my home in sunny Fort Lauderdale, FL. My passion for phonology and wanderlust drives me to explore the world alongside my wonderful girlfriend.
+
+## Get in Touch 📲
+
+- **LinkedIn:** [linkedin.com/in/rickcollett19](https://www.linkedin.com/in/rickcollett19) 🔗
+- **Email:** Contact.RickCollett@protonmail.com 📧
+- **Twitter:** [twitter.com/RickDoesTech](https://twitter.com/RickDoesTech) 🐦
+
+## Fun Facts 🎈
+
+- 🍳 Cooking is not just a hobby but a delightful journey for me.
+- 🌟 Lifelong learning is my mantra, always eager to discover new horizons.
+- 📍 Traveling to new places with my adventurous girlfriend makes every trip memorable.
+
+Feel free to explore my diverse projects and repositories. Whether you have inquiries, collaboration proposals, or just want to geek out about tech and coding, don't hesitate to contact me!
+
+Happy coding! 😄🚀
