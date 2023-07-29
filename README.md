@@ -12,6 +12,8 @@ I'm Rick, a dedicated and enthusiastic full-stack developer currently pursuing m
 
 SwipeBites is an innovative website that combines the excitement of swiping with the joy of discovering delectable dining options right in your neighborhood. It's your ultimate guide to local restaurant exploration.
 
+**NOTE** Not all features listed have been developed yet!
+
 - Discover nearby restaurants with a swipe and refine your preferences.
 - Tailor your dining experience with cuisine types, dietary requirements, and budget.
 - Unearth hidden culinary gems and savor new flavors.
