@@ -21,7 +21,7 @@ SwipeBites is an innovative website that combines the excitement of swiping with
 - Plan and share your culinary adventures with friends.
 - Seamlessly integrate with Yelp for hassle-free dining.
 
-**Visit [Repo](https://github.com/NormallyRayne/SwipeBites) or the [Website](SwipeBites.app) and start swiping for delicious experiences!** 🌟👉👈
+**Visit the [Repo](https://github.com/NormallyRayne/SwipeBites) or the [Website](SwipeBites.app) and start swiping for delicious experiences!** 🌟👉👈
 
 ## Get in Touch 📲
 
