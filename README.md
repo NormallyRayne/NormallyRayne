@@ -4,7 +4,7 @@ Hello and welcome to my GitHub! 🎉
 
 ## About Me 🙋‍♂️
 
-I'm Rick, a dedicated and enthusiastic full-stack developer currently pursuing my education at University of Miami. Originally hailing from Maryland, I found my home in sunny Fort Lauderdale, FL. My passion for phonology and wanderlust drives me to explore the world alongside my wonderful girlfriend.
+I'm Rick, a dedicated and enthusiastic full-stack developer who graduated from University of Miami. Originally hailing from Maryland, I found my home in sunny Fort Lauderdale, FL. My passion for phonology and wanderlust drives me to explore the world alongside my wonderful girlfriend.
 
 ## Current Project(s) 🔧
 
