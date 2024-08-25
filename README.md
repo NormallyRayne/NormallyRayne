@@ -1,27 +1,49 @@
-# Rick Collett - Full Stack Developer 👨‍💻
 
-Hello and welcome to my GitHub! 🎉
 
-## About Me 🙋‍♂️
+# 👋 Hey, I'm Rick Collett!
 
-I'm Rick, a dedicated and enthusiastic full-stack developer who graduated from University of Miami. Originally hailing from Maryland, I found my home in sunny Fort Lauderdale, FL. My passion for phonology and wanderlust drives me to explore the world alongside my wonderful girlfriend.
+## 🧑‍💻 About Me
 
-## Current Project(s) 🔧
+- 🌟 **Full Stack Developer** with a passion for **front-end excellence** and over 22 years of experience in IT.
+- 🧑‍🎓 Earned a **BS in Computer Science** from **UMBC** and attended **University of Miami** for full-stack development.
+- 🚀 Extensive background in **DevOps**, **Database Management**, and **Java Development**.
+- 🛠️ Produced enterprise-grade infrastructure services using **Docker** and **Kubernetes** for top companies like **Sourcefire** and **Cisco**.
+- 🎨 Keen eye for design, committed to creating captivating **user interfaces**.
 
-N/A 
+## 🌍 When I'm Not Coding
 
-## Get in Touch 📲
+- ✈️ I'm a **globetrotter** exploring the world and embracing the beauty of diverse cultures.
+- 🎮 **Gaming enthusiast** and content creator on [YouTube] (To be made) with five friends, sharing laughs and adventures.
+- 🏋️ Focused on **fitness goals**—on a journey to slim down to 130 lbs and then bulk back up to 155 lbs with muscle.
 
-- **LinkedIn:** [linkedin.com/in/rickcollett19](https://www.linkedin.com/in/rickcollett19) 🔗
-- **Email:** Contact.RickCollett@protonmail.com 📧
-- **Twitter:** [twitter.com/RickDoesTech](https://twitter.com/RickDoesTech) 🐦
+## 🛠️ Tech Stack
 
-## Fun Facts 🎈
+- **Languages:** JavaScript, TypeScript, Java
+- **Frameworks:** Angular, NestJS, Bootstrap
+- **Tools:** Docker, Kubernetes, GitHub
+- **Others:** HTML, CSS, Node.js
 
-- 🍳 Cooking is not just a hobby but a delightful journey for me.
-- 🌟 Lifelong learning is my mantra, and I am always eager to discover new horizons.
-- 📍 Traveling to new places with my adventurous girlfriend makes every trip memorable.
+## 💼 Current Role
 
-Feel free to explore my diverse projects and repositories. Whether you have inquiries, collaboration proposals, or just want to geek out about tech and coding, don't hesitate to contact me!
+- 🎓 **Junior Developer** at **Dirigible Systems** | [rcollett@dirigible.systems](mailto:rcollett@dirigible.systems)
 
-Happy coding! 😄🚀
+## 📝 Ongoing Projects
+
+- 🕹️ **Event Calendar:** Themed with Angular Material.
+- 📦 **YouTube Channel:** Focusing on gaming and humor.
+-
+
+## 📚 Learning & Development
+
+- 📅 Currently refining my **JavaScript** and **TypeScript** 
+- 🔧 Messing around with **CAD**
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://linkedin.com)
+- [Twitter](https://twitter.com)
+- [GitHub](https://github.com/rickcollett)
+- [Personal Blog](https://blog.rickcollett.dev)
+
+---
+
