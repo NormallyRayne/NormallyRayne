@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌟 **Full Stack Developer** with a passion for **front-end excellence** and over 22 years of experience in IT.
+- 🌟 **Full Stack Developer** with a passion for **front-end excellence** 
 - 🧑‍🎓 Earned a **BS in Computer Science** from **UMBC** and attended **University of Miami** for full-stack development.
 - 🚀 Extensive background in **DevOps**, **Database Management**, and **Java Development**.
 - 🛠️ Produced enterprise-grade infrastructure services using **Docker** and **Kubernetes** for top companies like **Sourcefire** and **Cisco**.
